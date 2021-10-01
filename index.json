@@ -259,7 +259,19 @@
         "duration": "2 days",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
+    },
+{ 
+    "id": 28,
+        "courseTopic": "JavaScript Programming",
+        "courseTitle": "Javascript Tutorial for Beginners",
+        "providedBy": "Tulesko",
+        "platform":"Youtube",
+        "duration": "2 days",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=PlbupGCBV6w&list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4"
     }
+
+
 
 
 
